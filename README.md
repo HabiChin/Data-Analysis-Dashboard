@@ -17,5 +17,5 @@ Helps optimize business strategies (e.g., reducing discounts, focusing on high-p
 Provides insights into customer behaviour to improve targeting and marketing strategies.
 
 **Dashboard**:
-<a href="https://github.com/HabiChin/Data-Analysis-Dashboard/blob/main/Superstor%20dashboard.png"> Suoerstore Dashboard </a>
+<a href="https://github.com/HabiChin/Data-Analysis-Dashboard/blob/main/Superstor%20dashboard.png"> Superstore Dashboard </a>
 
