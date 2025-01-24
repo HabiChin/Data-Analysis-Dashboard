@@ -11,11 +11,15 @@ The Sample Superstore dataset is a fictional dataset that contains sales transac
 	Customer Analysis - Evaluating repeat customers and their buying patterns.
 Product Analysis - Determining best and worst-performing categories/sub-categories
 
+**Dashboard Interaction**:
+<a href="https://github.com/HabiChin/Data-Analysis-Dashboard/blob/main/Superstor%20dashboard.png"> Superstore Dashboard </a>
+
 **Benefits of Analysing This Dataset:**
 Identifies top-performing products and regions.
 Helps optimize business strategies (e.g., reducing discounts, focusing on high-profit regions).
 Provides insights into customer behaviour to improve targeting and marketing strategies.
 
-**Dashboard**:
-<a href="https://github.com/HabiChin/Data-Analysis-Dashboard/blob/main/Superstor%20dashboard.png"> Superstore Dashboard </a>
+**Dashboard:**
+
+![Superstor dashboard](https://github.com/user-attachments/assets/646c53e9-e9cc-45f9-818a-ce339fdfe419)
 
